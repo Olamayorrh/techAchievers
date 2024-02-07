@@ -1,1 +1,2 @@
+## LIBRARY MANAGEMENT SYSTEM
 The project(Library Management System) includes features like search option, user login verification and book management system at large.Technologies used includes Javascript HTML, CSS, GIT and API. Implementation focuses on scalability, security, usability, performance accessibility.The overall LMS optimizes library processes, enhances resource access and improves user satisfaction.
